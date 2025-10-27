@@ -20,18 +20,8 @@
   <a href="https://github.com/congdanh1608">
     <img
       width="390"
-      src="https://github-readme-stats-eight-gamma-39.vercel.app/top-langs?username=congdanh1608&layout=compact&theme=tokyonight&card_width=400"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats&card_width=400"
       alt="Danh Tran's Top Languages"
     />
   </a>
-
-  
-  <a href="https://github.com/congdanh1608">
- <img
-      width="390"
-      src="https://github-readme-stats-eight-gamma-39.vercel.app/api?username=congdanh1608&show_icons=true&theme=tokyonight"
-      alt="Danh Tran's Top Languages"
-    />
-      </a>
 </div>
-

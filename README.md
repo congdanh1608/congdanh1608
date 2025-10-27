@@ -13,7 +13,7 @@
   <a href="https://github.com/congdanh1608">
     <img
       width="450"
-      src="https://github-readme-stats-eight-gamma-39.vercel.app/api?username=congdanh1608&show_icons=true&theme=tokyonight"
+      src="https://github-readme-stats-eight-gamma-39.vercel.app/api?username=congdanh1608&show_icons=true&theme=tokyonight&include_all_commits=true"
       alt="Danh Tran's GitHub stats"
     />
   </a>

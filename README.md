@@ -37,12 +37,14 @@
   <!-- Trophies -->
   <br/>
   <a href="https://github.com/congdanh1608">
-    <img width="830"
+    <img
       src="https://github-profile-trophy.vercel.app/?username=congdanh1608&theme=tokyonight&no-frame=true&row=1&column=7"
-      alt="GitHub Trophies" />
+      onerror="this.style.display='none'"
+    />
   </a>
 </a>
 
+  <!-- graph -->
 <a href="https://github.com/congdanh1608">
   <img
     width="830"
@@ -52,11 +54,11 @@
 </a>
 
 <a href="https://github.com/congdanh1608">
-  <img
-    width="450"
-    src="https://github-readme-stats-eight-gamma-39.vercel.app/api/wakatime?username=congdanh1608&theme=tokyonight"
-    alt="WakaTime Stats"
-  />
+    <img
+      width="450"
+      src="https://github-readme-stats-eight-gamma-39.vercel.app/api/wakatime?username=congdanh1608&theme=tokyonight"
+      alt="WakaTime Stats"
+    />
 </a>
 
 </div>

@@ -10,17 +10,17 @@
 - ⚡ Fun fact: ...
 
 <div align="center">
-  <a href="https://github.com/congdanh1608">
+  <a href="https://github.com/congdanh1608" style="display:inline-block;">
     <img
       width="450"
-      src="https://github-readme-stats-eight-gamma-39.vercel.app/api?username=congdanh1608&show_icons=true&theme=tokyonight&include_all_commits=true"
+      src="https://github-readme-stats-eight-gamma-39.vercel.app/api?username=congdanh1608&show_icons=true&theme=tokyonight"
       alt="Danh Tran's GitHub stats"
     />
   </a>
-  <a href="https://github.com/congdanh1608">
+  <a href="https://github.com/congdanh1608" style="display:inline-block;">
     <img
       width="390"
-      src="https://github-readme-stats-eight-gamma-39.vercel.app/api?username=congdanh1608&show_icons=true&theme=tokyonight"
+      src="https://github-readme-stats-eight-gamma-39.vercel.app/api/top-langs?username=congdanh1608&layout=compact&theme=tokyonight&card_width=400"
       alt="Danh Tran's Top Languages"
     />
   </a>

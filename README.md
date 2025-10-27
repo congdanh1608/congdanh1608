@@ -34,15 +34,6 @@
       alt="GitHub Streak" />
   </a>
 
-  <!-- Trophies -->
-  <br/>
-  <a href="https://github.com/congdanh1608">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=congdanh1608&theme=tokyonight&no-frame=true&row=1&column=7"
-      onerror="this.style.display='none'"
-    />
-  </a>
-
   <!-- graph -->
 <a href="https://github.com/congdanh1608">
   <img
@@ -50,14 +41,6 @@
     src="https://github-readme-activity-graph.vercel.app/graph?username=congdanh1608&theme=tokyo-night&hide_border=true"
     alt="GitHub Activity Graph"
   />
-</a>
-
-<a href="https://github.com/congdanh1608">
-    <img
-      width="450"
-      src="https://github-readme-stats-eight-gamma-39.vercel.app/api/wakatime?username=congdanh1608&theme=tokyonight"
-      alt="WakaTime Stats"
-    />
 </a>
 
 </div>

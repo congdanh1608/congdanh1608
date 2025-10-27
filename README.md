@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-
-**congdanh1608/congdanh1608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -16,9 +11,17 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/congdanh1608">
-    <img width="450" src="https://github-readme-stats.vercel.app/api?username=congdanh1608&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+    <img
+      width="450"
+      src="https://github-readme-stats-congdanh1608.vercel.app/api?username=congdanh1608&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"
+      alt="Danh Tran's GitHub stats"
+    />
   </a>
   <a href="https://github.com/congdanh1608">
-    <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=congdanh1608&layout=compact&theme=tokyonight&card_width=400" />
+    <img
+      width="390"
+      src="https://github-readme-stats-congdanh1608.vercel.app/api/top-langs?username=congdanh1608&layout=compact&theme=tokyonight&card_width=400"
+      alt="Danh Tran's Top Languages"
+    />
   </a>
 </div>

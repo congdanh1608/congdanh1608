@@ -42,7 +42,6 @@
       onerror="this.style.display='none'"
     />
   </a>
-</a>
 
   <!-- graph -->
 <a href="https://github.com/congdanh1608">

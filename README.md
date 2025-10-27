@@ -14,5 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=congdanh1608&repo=my-cool-project&theme=tokyonight)](https://github.com/SilverWolf/my-cool-project)
+<a href="https://github.com/SilverWolf">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=congdanh1608&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/SilverWolf">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=congdanh1608&layout=compact&theme=tokyonight" />
+</a>
+
 

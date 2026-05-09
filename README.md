@@ -56,8 +56,8 @@ fun_fact:    "I write code the way I drink coffee — strong, daily, no sugar." 
 
 ### 🤖 AI-Native Workflow
 
-> _"Trong thời đại này, biết dùng AI hiệu quả cũng là một kỹ năng."_
-> Tôi pair-program với AI mỗi ngày — từ scaffold feature, refactor, review code, đến viết test & docs.
+> _"In this era, using AI effectively is itself a skill."_
+> I pair-program with AI every day — from scaffolding features and refactoring, to reviewing code, writing tests & docs.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
@@ -76,10 +76,16 @@ fun_fact:    "I write code the way I drink coffee — strong, daily, no sugar." 
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-eight-gamma-39.vercel.app/api?username=congdanh1608&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" alt="stats"/>
-  <img width="49%" src="https://github-readme-stats-eight-gamma-39.vercel.app/api/top-langs?username=congdanh1608&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img width="100%" src="https://github-readme-stats-eight-gamma-39.vercel.app/api?username=congdanh1608&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&card_width=480" alt="stats"/>
+    </td>
+    <td width="50%" valign="top">
+      <img width="100%" src="https://github-readme-stats-eight-gamma-39.vercel.app/api/top-langs?username=congdanh1608&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=480" alt="top langs"/>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=congdanh1608&theme=tokyonight&hide_border=true&background=1a1b27" alt="streak"/>

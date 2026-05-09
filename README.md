@@ -43,7 +43,7 @@ fun_fact:    "I write code the way I drink coffee — strong, daily, no sugar." 
 
 <table align="center">
   <tr>
-    <td align="center" width="120"><img src="https://techstack-generator.vercel.app/dart-icon.svg" width="56"/><br/>Dart</td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="56"/><br/>Dart</td>
     <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="56"/><br/>Flutter</td>
     <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="56"/><br/>Firebase</td>
     <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="56"/><br/>Kotlin</td>
@@ -51,6 +51,26 @@ fun_fact:    "I write code the way I drink coffee — strong, daily, no sugar." 
     <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="56"/><br/>Git</td>
   </tr>
 </table>
+
+---
+
+### 🤖 AI-Native Workflow
+
+> _"Trong thời đại này, biết dùng AI hiệu quả cũng là một kỹ năng."_
+> Tôi pair-program với AI mỗi ngày — từ scaffold feature, refactor, review code, đến viết test & docs.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/Claude_API-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot"/>
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+</p>
+
+<p align="center">
+  <code>🧠 Prompt engineering</code> ・ <code>🔄 Agentic workflows</code> ・ <code>📐 Spec-driven dev</code> ・ <code>🧪 AI-assisted testing</code> ・ <code>📝 Auto-doc generation</code>
+</p>
 
 ---
 
@@ -71,37 +91,6 @@ fun_fact:    "I write code the way I drink coffee — strong, daily, no sugar." 
 
 ---
 
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=congdanh1608&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="trophies"/>
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/congdanh1608/congdanh1608/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</div>
-
-> Snake graph requires a GitHub Action — see setup snippet at the bottom.
-
----
-
-### 🚀 Featured Work
-
-<div align="center">
-
-| Project | Description | Stack |
-|---|---|---|
-| **flutter_large_base_project** | Production-grade Flutter base with Clean Architecture, Riverpod, GoRouter, Retrofit | Flutter • Dart • Riverpod |
-| _coming soon_ | More public projects on the way | — |
-
-</div>
-
----
-
 ### 📫 Connect
 
 <p align="center">
@@ -113,36 +102,3 @@ fun_fact:    "I write code the way I drink coffee — strong, daily, no sugar." 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=22&fontColor=ffffff&animation=twinkling" alt="footer"/>
 </p>
 
----
-
-<details>
-<summary>⚙️ Snake animation setup (one-time)</summary>
-
-1. Create a special repo named exactly `congdanh1608/congdanh1608` (this repo's README is your profile README).
-2. Add `.github/workflows/snake.yml`:
-
-```yaml
-name: Generate Snake
-on:
-  schedule: [{cron: "0 */24 * * *"}]
-  workflow_dispatch:
-  push: {branches: [main]}
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: congdanh1608
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env: {GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"}
-```
-
-3. Run the workflow once. Snake renders from the `output` branch.
-
-</details>

@@ -17,14 +17,15 @@
 ### 🧑‍🚀 About Me
 
 ```yaml
-name:        Danh Tran
-role:        Senior Mobile / Flutter Engineer
-location:    Vietnam 🇻🇳
-currently:   Building large-scale Flutter base projects & shipping mobile apps
-learning:    Advanced Riverpod, Server-Driven UI, AI-assisted dev workflows
-collab_on:   Open-source Flutter tooling, clean-architecture starter kits
-ask_me_about: Flutter • Dart • Clean Architecture • Riverpod • CI/CD
-fun_fact:    "I write code the way I drink coffee — strong, daily, no sugar." ☕
+name:         Danh Tran
+role:         Senior Mobile Engineer
+expertise:    Flutter • Android Native (Kotlin / Java)
+journey:      Long-time Android dev → Cross-platform with Flutter
+location:     Ho Chi Minh City, Vietnam 🇻🇳
+currently:    Shipping production mobile apps & clean-architecture Flutter projects
+learning:     Always — newest Flutter, AI-assisted dev workflows, modern mobile patterns
+ask_me_about: Flutter • Dart • Android • Clean Architecture • Riverpod • CI/CD
+fun_fact:     "I write code the way I drink coffee — strong, daily, no sugar." ☕
 ```
 
 <p align="center">
@@ -37,18 +38,26 @@ fun_fact:    "I write code the way I drink coffee — strong, daily, no sugar." 
 
 ### 🛠️ Tech Arsenal
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio,firebase,git,github,vscode,figma,nodejs,postman,docker&perline=13" alt="skills"/>
-</p>
-
 <table align="center">
   <tr>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="56"/><br/>Dart</td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="56"/><br/>Flutter</td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="56"/><br/>Firebase</td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="56"/><br/>Kotlin</td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="56"/><br/>Swift</td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="56"/><br/>Git</td>
+    <td align="right" valign="middle"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=dart,kotlin,swift,java,ts,js,py&perline=10" alt="languages"/></td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle"><b>Mobile & Frameworks</b></td>
+    <td><img src="https://skillicons.dev/icons?i=flutter,android,ios,react,nodejs&perline=10" alt="mobile"/></td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle"><b>Backend & Cloud</b></td>
+    <td><img src="https://skillicons.dev/icons?i=firebase,supabase,postgres,mongodb,redis,gcp&perline=10" alt="backend"/></td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle"><b>Tools & DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,docker,githubactions,postman&perline=10" alt="tools"/></td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle"><b>IDE & Design</b></td>
+    <td><img src="https://skillicons.dev/icons?i=androidstudio,xcode,vscode,idea,figma&perline=10" alt="ide"/></td>
   </tr>
 </table>
 

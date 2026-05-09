@@ -38,28 +38,9 @@ fun_fact:     "I write code the way I drink coffee — strong, daily, no sugar."
 
 ### 🛠️ Tech Arsenal
 
-<table align="center">
-  <tr>
-    <td align="right" valign="middle"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=dart,kotlin,swift,java,ts,js,py&perline=10" alt="languages"/></td>
-  </tr>
-  <tr>
-    <td align="right" valign="middle"><b>Mobile & Frameworks</b></td>
-    <td><img src="https://skillicons.dev/icons?i=flutter,android,ios,react,nodejs&perline=10" alt="mobile"/></td>
-  </tr>
-  <tr>
-    <td align="right" valign="middle"><b>Backend & Cloud</b></td>
-    <td><img src="https://skillicons.dev/icons?i=firebase,supabase,postgres,mongodb,redis,gcp&perline=10" alt="backend"/></td>
-  </tr>
-  <tr>
-    <td align="right" valign="middle"><b>Tools & DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,docker,githubactions,postman&perline=10" alt="tools"/></td>
-  </tr>
-  <tr>
-    <td align="right" valign="middle"><b>IDE & Design</b></td>
-    <td><img src="https://skillicons.dev/icons?i=androidstudio,xcode,vscode,idea,figma&perline=10" alt="ide"/></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,java,androidstudio,firebase,git,github,vscode,figma,nodejs,postman,docker&perline=14" alt="skills"/>
+</p>
 
 ---
 
@@ -69,12 +50,15 @@ fun_fact:     "I write code the way I drink coffee — strong, daily, no sugar."
 > I pair-program with AI every day — from scaffolding features and refactoring, to reviewing code, writing tests & docs.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
-  <img src="https://img.shields.io/badge/Claude_API-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
-  <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot"/>
-  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Claude_Opus_4-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Opus"/>
+  <img src="https://img.shields.io/badge/Claude_Sonnet_4-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Sonnet"/>
+  <img src="https://img.shields.io/badge/GPT--5-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="GPT-5"/>
+  <img src="https://img.shields.io/badge/Gemini_2.5-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini 2.5"/>
+  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok"/>
+  <img src="https://img.shields.io/badge/DeepSeek-1E40AF?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek"/>
+  <img src="https://img.shields.io/badge/Llama-0866FF?style=for-the-badge&logo=meta&logoColor=white" alt="Llama"/>
+  <img src="https://img.shields.io/badge/Qwen-615CED?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Qwen"/>
+  <img src="https://img.shields.io/badge/GLM-3B82F6?style=for-the-badge&logoColor=white" alt="GLM"/>
 </p>
 
 <p align="center">
